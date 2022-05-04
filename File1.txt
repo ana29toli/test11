@@ -6,3 +6,4 @@
 Add line
 1234.
 5677
+conflict
